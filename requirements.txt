@@ -1,0 +1,8 @@
+pillow
+matplotlib
+streamlit>=1.49
+SQLAlchemy>=2
+pandas>=2.2
+# Original dependency (not used by the application):
+# pex
+# SQLite is included in Python; psycopg2 is not needed.
